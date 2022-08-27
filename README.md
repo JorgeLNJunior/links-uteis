@@ -9,6 +9,7 @@ Coleção de links para artigos, ferramentas e coisas interessantes.
 - [Microservices Architecture – Explained in Plain English](https://www.freecodecamp.org/news/microservices-architecture-for-humans/) - Introdução a arquitetura de microserviços para humanos.
 - [System Design](https://www.karanpratapsingh.com/courses/system-design) - Aprenda a projetar sistemas em escala.
 
+
 ## Banco de dados
 - [Redis Explained](https://architecturenotes.co/redis/) - Um guia técnico profundo  sobre o  Redis.
 
@@ -18,6 +19,11 @@ Coleção de links para artigos, ferramentas e coisas interessantes.
 - [Developer marketing guide](https://www.developermarkepear.com/blog/developer-marketing-guide) - Guia de marketing para devs.
 - [Dicas Para Mandar Bem Em Testes Técnicos](https://dev.to/leonardofiedler/dicas-para-mandar-bem-em-testes-tecnicos-231k) - Dicas de como ir bem em testes técnicos escrito por alguém que os avalia.
 - [Ignore the f’ing haters!](https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5) - A importância de ignorar haters: lições aprendidas do criador do JSON5.
+
+
+## Construa o seu próprio x
+- [NES Emulator](https://bugzmanov.github.io/nes_ebook/) - Crie seu emulador NES usando Rust.
+- [Build your own x](https://github.com/codecrafters-io/build-your-own-x) - Domine programação recriando suas tecnologias favoritas do zero.
 
 
 ## Desafios
