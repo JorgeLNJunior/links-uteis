@@ -7,6 +7,7 @@ Coleção de links para artigos, ferramentas e coisas interessantes.
 
 ## Arquitetura
 - [Microservices Architecture – Explained in Plain English](https://www.freecodecamp.org/news/microservices-architecture-for-humans/) - Introdução a arquitetura de microserviços para humanos.
+- [System Design](https://www.karanpratapsingh.com/courses/system-design) - Aprenda a projetar sistemas em escala.
 
 ## Banco de dados
 - [Redis Explained](https://architecturenotes.co/redis/) - Um guia técnico profundo  sobre o  Redis.
