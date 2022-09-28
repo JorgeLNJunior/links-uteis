@@ -49,6 +49,9 @@ Coleção de links para artigos, ferramentas e coisas interessantes.
 ## Ferramentas
 - [StemRoller](https://github.com/stemrollerapp/stemroller) - O primeiro aplicativo gratuito e open source que permite separar faixas vocais e instrumentais de qualquer música com um único clique.
 
+## Fontend
+- [Auto Animate](https://github.com/formkit/auto-animate) - Adicione automaticamente transições suaves ao seus componentes.
+
 
 ## IDEs
 - [Como Configurar o VIM e o NEOVIM do ZERO em 2022](https://www.youtube.com/watch?v=lm7y2hI6zME&list=WL&index=1&t=3838s) - Guia de instalação e configuração do NeoVim do zero.
