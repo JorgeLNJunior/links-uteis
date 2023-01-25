@@ -37,6 +37,7 @@ Coleção de links para artigos, ferramentas e coisas interessantes.
 
 ## Entrevistas
 - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Extensa lista de perguntas (e respostas) para entrevistas técnicas.
+- [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook) - Materiais de preparação de entrevista de programação para engenheiros de software ocupados.
 
 
 ## Estrutura de Dados
@@ -45,6 +46,7 @@ Coleção de links para artigos, ferramentas e coisas interessantes.
 
 ## Estudos
 - [Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao) - Um caminho para a educação autodidata em Ciência da Computação.
+
 
 ## Ferramentas
 - [StemRoller](https://github.com/stemrollerapp/stemroller) - O primeiro aplicativo gratuito e open source que permite separar faixas vocais e instrumentais de qualquer música com um único clique.
@@ -62,5 +64,7 @@ Coleção de links para artigos, ferramentas e coisas interessantes.
 
 
 ## Outros
+- [A Software Developer’s Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj) - Como e porquê começar a escrever um blog sobre tecnologia.
+- [Como consegui trabalhar remotamente para uma empresa internacional](https://www.tabnews.com.br/leomuniz/como-consegui-trabalhar-remotamente-para-uma-empresa-internacional)
 - [Diferença entre Heap e Stack](https://pt.stackoverflow.com/questions/3797/o-que-s%c3%a3o-e-onde-est%c3%a3o-a-stack-e-heap/15698#15698) - Explicação das diferenças entre Heap e Stack no gerênciamento de memória.
 
