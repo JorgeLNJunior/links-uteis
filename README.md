@@ -1,7 +1,7 @@
 <div align="center">
   
 # Links Úteis
-Coleção de links para artigos, ferramentas e coisas interessantes.
+Coleção de links para artigos, ferramentas e materiais de estudo.
 
 </div>
 
