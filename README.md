@@ -46,6 +46,7 @@ Coleção de links para artigos, ferramentas e materiais de estudo.
 
 ## Estudos
 - [Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao) - Um caminho para a educação autodidata em Ciência da Computação.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Um plano completo de estudo de ciência da computação para se tornar um engenheiro de software
 
 
 ## Ferramentas
