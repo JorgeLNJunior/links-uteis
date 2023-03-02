@@ -47,6 +47,8 @@ Coleção de links para artigos, ferramentas e materiais de estudo.
 ## Estudos
 - [Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao) - Um caminho para a educação autodidata em Ciência da Computação.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Um plano completo de estudo de ciência da computação para se tornar um engenheiro de software
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Do básico aos tópicos avançados com explicações simples, mas detalhadas.
+- [Boost Your Programming Skills by Reading Git's Code](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code)
 
 
 ## Ferramentas
@@ -68,4 +70,6 @@ Coleção de links para artigos, ferramentas e materiais de estudo.
 - [A Software Developer’s Guide to Writing](https://dev.to/tyaga001/a-software-developers-guide-to-writing-bgj) - Como e porquê começar a escrever um blog sobre tecnologia.
 - [Como consegui trabalhar remotamente para uma empresa internacional](https://www.tabnews.com.br/leomuniz/como-consegui-trabalhar-remotamente-para-uma-empresa-internacional)
 - [Diferença entre Heap e Stack](https://pt.stackoverflow.com/questions/3797/o-que-s%c3%a3o-e-onde-est%c3%a3o-a-stack-e-heap/15698#15698) - Explicação das diferenças entre Heap e Stack no gerênciamento de memória.
+- [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/)
+- [The Mistakes I Made As a Beginner Programmer](https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 
